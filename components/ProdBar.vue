@@ -75,12 +75,8 @@
 
 </template>
 
-<style>
-.leading-relaxed {
-    line-height: 1.625;
-    height: 90px !important;
-    margin-top: 20px;
-}
+<style scoped>
+
 
 img.object-cover.object-center.h-full.w-full {
     width: 200px;

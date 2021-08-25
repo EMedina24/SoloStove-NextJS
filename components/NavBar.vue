@@ -10,9 +10,9 @@
 		</div>
 	</div>
   <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
-   
+       <NuxtLink to="/">
       <img  class="header-logo-image " src="https://cdn11.bigcommerce.com/s-b5b4c/stencil/062223a0-e415-0139-f667-62078a6417ff/e/62407500-9406-0139-90d3-56a0962d5e72/img/ss-logo-registered-2021.svg">
-   
+   </NuxtLink>
     <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 	flex flex-wrap items-center text-base justify-center">
       <a href="https://www.solostove.com/" class="desktop-header-nav-item-label">Fire Pits</a>
       <a  href="https://www.solostove.com/" class="desktop-header-nav-item-label">Grill</a>
