@@ -1,4 +1,6 @@
 <template>
+
+
 <h1>test</h1>
   
 </template>
@@ -17,13 +19,11 @@ const products = gql`
            }
    }
 `
-
-
-
-
 export default {
+layout: 'default',
 
  async asyncData({ app, params }) {
+
     const client = app.apolloProvider.defaultClient;
     const  slug  = params.slug;
 
