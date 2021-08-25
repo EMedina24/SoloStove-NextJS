@@ -1,8 +1,9 @@
 <template>
-  <div>
+  <section>
     <NavBar />
     <Nuxt />
-  </div>
+    </section>
+  
 </template>
 
 <style>
@@ -24,4 +25,6 @@ html {
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 }
+
+
 </style>

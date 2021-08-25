@@ -26,7 +26,7 @@
 </template>
 
 
-<style >
+<style scoped >
 .header-logo-image {
     display: block;
     width: 125px;

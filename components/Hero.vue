@@ -1,0 +1,321 @@
+<template>
+ <div id="home-hero-image-15019988" class="home-hero-image" alt="Enjoy over 25% Off Fire Pits, Summer fun for less. Hero Image" title="">
+	
+		<div id="home-hero-image-icon-15019988" class="home-hero-image-icon">
+		
+		</div>
+		<div id="home-hero-image-text-desktop-15019988" class="home-hero-image-text-desktop sswrap-extended">
+			<img id="hero-icon-desk-15019988" class="lazyimg" alt="Spring Icon" title="Spring Icon" src="https://cdn11.bigcommerce.com/s-b5b4c/product_images/uploaded_images/badge.png?t=1622556032" data-main-image="">
+			<h1 id="home-hero-image-text-desktop-title-15019988" class="home-hero-image-text-desktop-title">Enjoy over 25% <br>Off Fire Pits</h1>
+			<p id="home-hero-image-text-desktop-subtitle-15019988" class="home-hero-image-text-desktop-subtitle">Summer fun for less.</p>
+			<div id="btns-full-width-15019988" class="btns-full-width">
+				<a id="hero-cta-15019988" data-cta-position="1" href="/fire-pits/" title="Enjoy over 25% Off Fire Pits, Summer fun for less., Shop Fire Pits" class="button button--white"><p>Shop Fire Pits</p></a>
+			</div>
+		</div>
+	</div>
+</template>
+
+<style scoped>
+
+
+.home-hero-image-text {
+  display: none!important;
+}
+
+.home-hero:after {
+  content: none;
+}
+
+.dy_smart_object_1132806 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+#home-hero-15019988 {
+  height: 100%;
+  width: 100%;
+  max-width: 100%;
+  color: #FFFFFF;
+  position: relative;
+}
+
+#home-hero-image-15019988:after {
+  content: "";
+  height: 100%;
+  opacity: 0.55;
+  top: 0;
+  left: initial;
+  right: initial;
+  
+  display: block;
+  z-index: 2;
+  position: absolute;
+}
+
+#home-hero-image-15019988 {
+  z-index: 1;
+  background-image: url("https://cdn11.bigcommerce.com/s-b5b4c/product_images/uploaded_images/550-x-550-2-.jpg?t=1626106858");
+  height: 100%;
+  width: 100%;
+  min-height: 100vw;
+  max-height: 375px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  text-align: right;
+}
+
+#hero-icon-desk-15019988 {
+  max-width: 200px;
+  margin-left: auto;margin-right: 0;
+}
+
+#home-hero-image-icon-15019988 {
+  position: absolute;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+  top: 5%;
+  right: 5%;
+  z-index: 10;
+}
+
+
+#home-hero-image-icon-15019988 img {
+  max-width: 140px;
+  display: block;
+  height: 18.5vw;
+  height: auto;
+}
+
+#home-hero-image-text-15019988 {
+  margin: 0 auto;
+  display: flex!important;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  height: fit-content;
+  z-index: 10;
+  margin-top: -13px;
+}
+
+#home-hero-image-text-title-15019988 {
+  font-family: "DINOT", sans-serif;
+  font-weight: 600;
+  color: #2A1A13;
+  font-size: 18px;
+  font-size: 1em;
+  letter-spacing: 0.55px;
+  text-transform: uppercase;
+}
+
+#home-hero-image-text-subtitle-15019988 {
+  font-family: "Neutra", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  color: #2A1A13;
+}
+
+#home-hero-image-text-desktop-15019988 {
+  display: none;
+  z-index: 10;
+}
+
+#btns-full-width-15019988 {
+  display: flex;
+  position: relative;
+  padding: 0 1rem !important;
+  margin-top: 0;
+  justify-content: flex-end;
+}
+
+#hero-cta-15019988, #hero-cta-mobile-15019988 {
+  margin-bottom: 0 !important;
+  color: #ffffff;
+  width: 100%;
+  height: 56px;
+  background-color: #f36b30!important;
+  border-color:#f36b30!important;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#hero-cta-15019988 > p, #hero-cta-mobile-15019988 > p {
+  font-family: "Neutra", sans-serif !important;
+  font-weight: 600;
+  font-size: 18px;
+  color: #ffffff!important;
+  margin: 0;
+  margin-bottom: 0 !important;
+}
+
+
+
+
+
+
+
+
+
+@media(min-width: 400px) {
+  #home-hero-image-text-title-15019988 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 551px) {
+  #home-hero-image-15019988 {
+    min-height: 375px;
+    background-image: url("https://cdn11.bigcommerce.com/s-b5b4c/product_images/uploaded_images/1920-x-760-2-1-.jpg?t=1626106858");
+  }
+  
+
+  #home-hero-image-text-15019988 {
+     margin: 30px auto 30px; 
+     font-size: 32px;
+  }
+
+  #home-hero-image-text-title-15019988 {
+    margin-top: 0; 
+    margin-bottom: 0.5rem;
+    font-size: 32px;
+  
+  }
+  
+  #home-hero-image-text-title-subtitle-15019988 {
+    font-size: 24px;
+  }
+  
+  #hero-cta-15019988, #hero-cta-mobile-15019988, #hero-cta-mobile-15019988 {
+    max-width: 235px;
+  }
+}
+
+@media(min-width: 800px) {
+  #home-hero-image-15019988:after {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(255, 255, 255, 0));
+    width: 100%;
+  }
+  
+  #home-hero-image-15019988 {
+    background-position-x: unset;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    max-height: 100%;
+    background-position: center;
+  }
+  
+  #home-hero-image-icon {
+    display: unset;
+    display: none;
+  }
+  
+  #home-hero-image-text-15019988 {
+    display: none;
+  }
+  
+  #home-hero-image-text-desktop-15019988 {
+    padding: 25px 3.5rem 0 !important;
+    display: block;
+    margin: 0 auto 55px;
+  }
+  
+  #home-hero-image-text-desktop img {
+    display: block;
+    margin-right: auto;
+    max-width: 140px;
+  }
+  
+  #home-hero-image-text-desktop-title-15019988 {
+    font-family: "DINOT", sans-serif;
+    font-weight: 600;
+    color: #FFFFFF;
+    font-size: 72px;
+    letter-spacing: 1.8px;
+    text-transform: uppercase;
+    z-index: 10;
+    margin-top: 7rem;
+    margin-bottom: 2rem;
+  }
+  
+  #home-hero-image-text-desktop-subtitle-15019988{
+    font-family: "Neutra", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #FFFFFF;
+    font-size: 36px;
+    margin-bottom: 2.4rem;
+  }
+  
+  #btns-full-width-15019988 {
+    justify-content: flex-end;
+    padding: 0 0rem !important;
+  }
+}
+
+@media (min-width: 13267px) {
+  #home-hero-image-text-desktop-15019988 {
+    padding: 0 1rem !important;
+  }
+}
+
+
+
+
+
+
+@media(max-width: 800px) {
+  #home-hero-image-15019988:after {
+    
+    width: 50%;
+  }
+}
+
+
+
+
+
+
+
+@media (min-width: 280px) and (max-width: 350px) {
+  #home-hero-image-icon-15019988 img{
+    max-width: 100px;
+  }
+}
+
+@media (min-width: 551px) and (max-width: 800px) {
+  /* #home-hero-image-icon-15019988 img {
+    max-height: 115px;
+  } */
+}
+
+@media (min-width: 551px) and (max-width: 1500px) {
+  #home-hero-image-15019988{
+    background-position: calc(50% - -20%) 50%;
+  }
+}
+
+
+
+
+
+@media (min-width: 280px) and (max-width: 399px) and (max-height: 670px) {
+  #home-hero-image-15019988 {
+    min-height: 75vw;
+    background-position: 50% 80%;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 551px) and (max-height: 850px) {
+  #home-hero-image-15019988 {
+    min-height: 75vw;
+    background-position: 50% 80%;
+  }
+}
+
+</style>
